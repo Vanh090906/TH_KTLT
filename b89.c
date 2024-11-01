@@ -69,7 +69,9 @@ void Ded()
 int main()
 {
     INPUT();
+    printf("Tong: ");
     Sum();
     endl;
+    printf("Hieu: ");
     Ded();
 }
